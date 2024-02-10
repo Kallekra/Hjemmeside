@@ -1,0 +1,31 @@
+
+body{
+    background-color: darkcyan;
+    font-family: sans-serif;
+}
+
+    
+
+
+
+h1{color: tomato;text-align: center;}
+
+
+
+
+p{color: blue;text-align: center;
+}
+
+.navn{font-size: xx-large;text-align: center;}
+
+.khr{width: 30%;
+height: 40%;
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top:100px;}
+
+.khr{border-color: coral;
+border-style: solid;
+border-width: 0,5cm;}
